@@ -1,0 +1,9 @@
+{
+  "name": "vueuse-analysis",
+  "scripts": {},
+  "keywords": [],
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "vite": "^4.4.8"
+  }
+}
