@@ -1,9 +1,14 @@
 {
   "name": "vueuse-analysis",
-  "scripts": {},
+  "scripts": {
+    "dev": "vite"
+  },
   "keywords": [],
   "devDependencies": {
     "typescript": "^4.8.4",
     "vite": "^4.4.8"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
   }
 }
